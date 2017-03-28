@@ -7,8 +7,8 @@
 		<description>Cordova Ping Plugin</description>
 		<license>MIT</license>
 		<keywords>cordova,ping</keywords>
-		<repo>https://github.com/t1st3/cordova-plugin-ping.git</repo>
-		<issue>https://github.com/t1st3/cordova-plugin-ping/issues</issue>
+		<repo>https://github.com/FathiMliki/cordova-plugin-ping/cordova-plugin-ping.git</repo>
+		<issue>https://github.com/FathiMliki/cordova-plugin-ping/cordova-plugin-ping/issues</issue>
 
 		<js-module src="www/ping.js" name="ping">
 			<clobbers target="Ping" />
