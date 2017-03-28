@@ -14,6 +14,7 @@ Ping.prototype.ping = function (ipList, success, err) {
 		self.results = r;
 		if (success && typeof success === 'function') {
 			success(r);
+			alert("fathi");
 		}
 	};
 	errorCallback = function (e) {
